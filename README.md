@@ -9,9 +9,10 @@
 
 ## 🖥 Preview 
 
-< p  align = "center" >
 
-</p>
+![portifolio](https://user-images.githubusercontent.com/42151127/92500602-c1339c80-f1d3-11ea-8ae9-e5ceefd01604.png)
+![2](https://user-images.githubusercontent.com/42151127/92500607-c264c980-f1d3-11ea-8b6c-0a9187737596.png)
+
 
 ---
 
